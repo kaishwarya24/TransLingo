@@ -2,6 +2,9 @@
 
 <body>
 
+ <p align="center">
+  <img src="https://github.com/kaishwarya24/TransLingo/blob/main/app/src/main/ic_launcher-playstore.png?raw=true" alt="Description of image" width="150" />
+</p>
 <h1>TransLingo: Real-Time Language Translator App</h1>
 
 <p>Developed entirely in Kotlin and XML, this app can translate text languages in real-time. It supports nearly 50 languages, including all languages of India 🇮🇳 and popular choices like German 🇩🇪, French 🇫🇷, Chinese 🇨🇳, Korean 🇰🇷, and many more!</p>
