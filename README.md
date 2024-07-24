@@ -4,8 +4,6 @@
 
 <h1>TransLingo: Real-Time Language Translator App</h1>
 
-<p> Language Translator Android app built using Google's ML Kit!</p>
-
 <p>Developed entirely in Kotlin and XML, this app can translate text languages in real-time. It supports nearly 50 languages, including all languages of India 🇮🇳 and popular choices like German 🇩🇪, French 🇫🇷, Chinese 🇨🇳, Korean 🇰🇷, and many more!</p>
 
 <h2>Features</h2>
@@ -18,6 +16,7 @@
 <h2>Technologies Used</h2>
 <ul>
     <li><strong>Android Studio</strong>: For developing and testing the Android application.</li>
+     <li><strong>XML</strong>: Used for designing the user interface with a clean and responsive layout.</li>
     <li><strong>Kotlin</strong>: The primary programming language for the app.</li>
     <li><strong>Google ML Kit</strong>: Leveraged for its powerful machine learning capabilities to enable real-time translation.</li>
 </ul>
