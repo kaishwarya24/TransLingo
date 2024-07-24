@@ -37,6 +37,13 @@
     <li>Korean 🇰🇷</li>
     <li>And many more!</li>
 </ul>
-
+<table>
+    <tr>
+<td><img src="https://github.com/kaishwarya24/TransLingo/blob/main/images/image3.jpeg?raw=true" alt="Description of image" width="250" /></td> 
+<td><img src="https://github.com/kaishwarya24/TransLingo/blob/main/images/image4.jpeg?raw=true" alt="Description of image" width="250" /></td> </tr>
+    <tr>
+ <td><img src="https://github.com/kaishwarya24/TransLingo/blob/main/images/image2.jpeg?raw=true" alt="Description of image" width="250" /></td>
+ <td><img src="https://github.com/kaishwarya24/TransLingo/blob/main/images/image1.jpeg?raw=true" alt="Description of image" width="250" /></td></tr>
+</table>
 </body>
 </html>
