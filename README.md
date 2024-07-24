@@ -1,11 +1,5 @@
-# TransLingo
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hermes: Real-Time Language Translator App</title>
-</head>
+
+
 <body>
 
 <h1>TransLingo: Real-Time Language Translator App</h1>
